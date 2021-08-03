@@ -1,3 +1,3 @@
 # Kokoa clone 2021 UPdate
 
-Kokoa clone Tutoriel.
+HTML & CSS Kokoa clone Tutoriel.
